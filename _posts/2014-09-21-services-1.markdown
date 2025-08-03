@@ -1,0 +1,8 @@
+---
+layout: default
+img: vision_web.png
+category: Services
+title: Our Vision
+description: |
+---
+  Our vision is to revolutionize how machines perceive the world. By harnessing the power of light in the AI inference stage, we are paving the way for a future of faster, more robust, and highly-efficient visual sensing for autonomous agents in the physical world

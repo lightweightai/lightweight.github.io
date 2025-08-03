@@ -1,0 +1,16 @@
+---
+layout: default
+img: whatdowedo.png
+category: Services
+title: What We Do
+description: |
+---
+  We provide a complete hardware-software package for high-performance visual processing and scene understanding. This technology empowers diverse applications, including:
+
+    Human-Machine Interface: Intuitive gesture recognition, augmented reality (AR) overlays, and adaptive user experiences.
+
+    Defense & Security: Real-time threat detection, situational awareness for unmanned systems, and intelligent surveillance.
+
+    Physical Agents: Advanced perception for autonomous robots, drones, and self-driving vehicles, enabling navigation and object manipulation.
+
+    Camera Modules: On-device analytics, intelligent image processing, and proactive event triggers for smart cameras..

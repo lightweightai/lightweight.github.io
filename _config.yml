@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://lightweightai.github.io/
+title: Light-Weight
+email: avia@hsproad.com
+author: Light-Weight
+description: > # "Write an awesome description for your new site here.
+  We are a startup at the intersection of AI, optics, and material science,
+  building a new generation of neural networks that leverage the power of light
+  for faster, more efficient computation for physical AI.
+copyright: 'Copyright &copy; 2025 Light-Weight. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+#  - title: twitter
+#    url:
+  - title: github
+    url: https://lightweightai.github.io/
+
